@@ -2,6 +2,8 @@
 Adds an App to the Homescreen with Snapchat Web, allowing you to get notifications for Snapchat on iPad! You can even use it to Chat with your friends!
 
 
+You need iPadOS 16.4 or newer!
+
 How to install:
 
 1. Open this page on your iPad!
